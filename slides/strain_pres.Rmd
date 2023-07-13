@@ -163,7 +163,7 @@ $$\widehat{\text{STRAIN}}_{ij}(t) = \cfrac{-\cfrac{f_{d_{ij}}(t) - f_{d_{ij}}(t 
 ## Example play
 
 ```{r, out.width="95%"}
-knitr::include_graphics("sack.gif")
+#knitr::include_graphics("sack.gif")
 ```
 
 
